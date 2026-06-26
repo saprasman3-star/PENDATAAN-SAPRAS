@@ -1,9 +1,0 @@
-{
-  "name": "sapras-man3-dashboard",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Website Pendataan Sarana Prasarana MAN 3 Kota Banda Aceh",
-  "scripts": {
-    "start": "vercel dev"
-  }
-}
